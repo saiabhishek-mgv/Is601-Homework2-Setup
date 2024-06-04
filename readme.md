@@ -1,6 +1,6 @@
-# Project Install Instructions
+# Project Installation Instructions
 
-## install
+## Install
 
 1. Clone
 2. pip install -r requirements.txt
